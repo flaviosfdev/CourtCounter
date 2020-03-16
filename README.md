@@ -1,2 +1,2 @@
 # CourtCounter
-A project of the Udacity's Android Basics Nanodegree Course.
+A Udacity Basic Nanodegree Android Course project.
