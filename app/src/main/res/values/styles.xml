@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <!-- SETA COR DE FUNDO DA BARRA SUPERIOR DO APP -->
+        <item name="colorPrimary">#ff9800</item>
+
+        <!-- SETAR COR DE FUNDO DE BOTOES -->
+        <item name="colorButtonNormal">#ff9800</item>
+<!--    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--    <item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+</resources>
